@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a{
+    width: 100%;
+    height:250px;
+    background-color: white;
+}
+.msg{
+    width: 200px;
+    height: 200px;
+}
+.msg div{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.b{
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+    background-color: white;
+}
+.tiao div:hover{
+    text-decoration: underline;
+}
+.tiao div{
+    color: deepskyblue;
+}
+.msg1{
+    width: 200px;
+    height: 290px;
+}
